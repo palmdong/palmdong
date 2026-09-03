@@ -1,4 +1,10 @@
-## Hi there 👋
+## I’ll be presenting our paper, “Robust Self-Supervised Cross-Modal Super-Resolution against Real-World Misaligned Observations,” at #ECCV2026.
+
+## > Sep 11
+## > Poster Session 4 — Recognition, Tracking, Re-ID & Anomaly Detection
+## > Poster #354
+
+##Not sure why a super-resolution paper ended up in this somewhat wired session 🤔 — but if you’re around, please stop by and have a chat!🍺
 
 <!--
 **palmdong/palmdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

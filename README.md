@@ -1,4 +1,4 @@
-## <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="28">⚡ ECCV 2026 Poster Session ⚡<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="28">
+## ⚡ ECCV 2026 Poster Session ⚡
 
 I’ll be presenting our paper, “Robust Self-Supervised Cross-Modal Super-Resolution against Real-World Misaligned Observations,” at ECCV 2026.
 

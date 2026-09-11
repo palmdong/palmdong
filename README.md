@@ -2,7 +2,7 @@
 
 I’ll be presenting our paper, “Robust Self-Supervised Cross-Modal Super-Resolution against Real-World Misaligned Observations,” at ECCV 2026.
 
--> Sep 11  
+-> Sep 11, 16:30-18:00  
 -> Poster Session 4 — Recognition, Tracking, Re-ID & Anomaly Detection  
 -> Poster #354  
 
